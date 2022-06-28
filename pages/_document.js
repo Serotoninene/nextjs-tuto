@@ -5,7 +5,6 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        <meta description="Les proutss" />
       </Head>
       <body>
         <Main />
